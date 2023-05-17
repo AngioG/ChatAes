@@ -1,0 +1,60 @@
+C:\Users\angioletti.18174\Desktop\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.exe
+C:\Users\angioletti.18174\Desktop\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.deps.json
+C:\Users\angioletti.18174\Desktop\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.runtimeconfig.json
+C:\Users\angioletti.18174\Desktop\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.dll
+C:\Users\angioletti.18174\Desktop\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.pdb
+C:\Users\angioletti.18174\Desktop\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.csproj.AssemblyReference.cache
+C:\Users\angioletti.18174\Desktop\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angioletti.18174\Desktop\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.AssemblyInfoInputs.cache
+C:\Users\angioletti.18174\Desktop\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.AssemblyInfo.cs
+C:\Users\angioletti.18174\Desktop\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.csproj.CoreCompileInputs.cache
+C:\Users\angioletti.18174\Desktop\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.dll
+C:\Users\angioletti.18174\Desktop\Chat Socket\Chat Socket\obj\Debug\net6.0\refint\Client Socket.dll
+C:\Users\angioletti.18174\Desktop\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.pdb
+C:\Users\angioletti.18174\Desktop\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.genruntimeconfig.cache
+C:\Users\angioletti.18174\Desktop\Chat Socket\Chat Socket\obj\Debug\net6.0\ref\Client Socket.dll
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.exe
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.deps.json
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.runtimeconfig.json
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.dll
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.pdb
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.csproj.AssemblyReference.cache
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.AssemblyInfoInputs.cache
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.AssemblyInfo.cs
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.csproj.CoreCompileInputs.cache
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.dll
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\Chat Socket\obj\Debug\net6.0\refint\Client Socket.dll
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.pdb
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.genruntimeconfig.cache
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\Chat Socket\obj\Debug\net6.0\ref\Client Socket.dll
+C:\Users\angioletti.18174\Downloads\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.exe
+C:\Users\angioletti.18174\Downloads\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.deps.json
+C:\Users\angioletti.18174\Downloads\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.runtimeconfig.json
+C:\Users\angioletti.18174\Downloads\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.dll
+C:\Users\angioletti.18174\Downloads\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.pdb
+C:\Users\angioletti.18174\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.csproj.AssemblyReference.cache
+C:\Users\angioletti.18174\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angioletti.18174\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.AssemblyInfoInputs.cache
+C:\Users\angioletti.18174\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.AssemblyInfo.cs
+C:\Users\angioletti.18174\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.csproj.CoreCompileInputs.cache
+C:\Users\angioletti.18174\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.dll
+C:\Users\angioletti.18174\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\refint\Client Socket.dll
+C:\Users\angioletti.18174\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.pdb
+C:\Users\angioletti.18174\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.genruntimeconfig.cache
+C:\Users\angioletti.18174\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\ref\Client Socket.dll
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.exe
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.deps.json
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.runtimeconfig.json
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.dll
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\bin\Debug\net6.0\Client Socket.pdb
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.csproj.AssemblyReference.cache
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.AssemblyInfoInputs.cache
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.AssemblyInfo.cs
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.csproj.CoreCompileInputs.cache
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.dll
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\refint\Client Socket.dll
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.pdb
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\Client Socket.genruntimeconfig.cache
+C:\Users\angioletti\Downloads\Chat Socket\Chat Socket\obj\Debug\net6.0\ref\Client Socket.dll
